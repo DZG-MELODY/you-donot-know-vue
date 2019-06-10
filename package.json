@@ -1,0 +1,26 @@
+{
+  "name": "you-donot-know-vue",
+  "version": "1.0.0",
+  "description": "you don't know vue.js",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DZG-MELODY/you-donot-know-vue.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "dzg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DZG-MELODY/you-donot-know-vue/issues"
+  },
+  "homepage": "https://github.com/DZG-MELODY/you-donot-know-vue#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.1"
+  }
+}
