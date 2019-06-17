@@ -4,6 +4,7 @@
   "description": "you don't know vue.js",
   "main": "index.js",
   "scripts": {
+    "pub": "sh deploy.sh",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
